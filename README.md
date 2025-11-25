@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/...">
-</div>
-
 # 🏏 EdgeQuiz.ai  
 ### AI-Powered Cricket Quiz Engine  
 Built using **Gemini 3 Pro**, **React**, **TypeScript**, and **Vite**
